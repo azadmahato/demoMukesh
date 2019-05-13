@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-  <test name="Test">
+  <test thread-count="5" name="sprint2">
     <classes>
-      <class name="testNgBasics.GoogleTitleTest"/>
-   <!--   
-   <class name="testNgBasics.DependsOn"/>
-      <class name="testNgBasics.InvocationCount"/>
-      <class name="testNgBasics.TestNgTest"/>
-      <class name="testNgBasics.UsingAssertGoogleTest"/> 
-      -->
-       
+      <class name="testNgClasses.HandleTabUsingWindowHandles"/>
+      <class name="testNgClasses.NewTest"/>
+      <class name="testNgClasses.TooltipActitimeRemCheckbox"/>
+      <class name="testNgClasses.KeyBoardMouseOperation"/>
+      <class name="testNgClasses.GoogleSearch"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- sprint2 -->
 </suite> <!-- Suite -->

@@ -28,8 +28,8 @@ public class ClockProg {
 			angle=360-angle;
 			System.out.println(angle);
 		}
-		
-	sc.close();
+		sc.close();
+	
 
 	}
 }

@@ -55,5 +55,6 @@
 	<classpathentry kind="lib" path="C:/Users/Rishi/Downloads/poi-3.17-beta1/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rishi/Downloads/poi-3.17-beta1/lib/log4j-1.2.17.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rishi/Downloads/webdrivermanager-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rishi/Downloads/log4j/log4j.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
